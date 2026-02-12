@@ -8,8 +8,8 @@
 
 🎯 Objectives
 
-    🔻 Forecast future Azure service usage accurately
-    🔻 Optimize resource allocation and provisioning
-    🔻 Reduce infrastructure cost wastage
-    🔻 Support decision-making using data-driven insights
-    🔻 Enable scalable and automated demand prediction
+    🔺 Forecast future Azure service usage accurately
+    🔺 Optimize resource allocation and provisioning
+    🔺 Reduce infrastructure cost wastage
+    🔺 Support decision-making using data-driven insights
+    🔺 Enable scalable and automated demand prediction
