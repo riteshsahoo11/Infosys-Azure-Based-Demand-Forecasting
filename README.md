@@ -13,3 +13,9 @@
     🔺 Reduce infrastructure cost wastage
     🔺 Support decision-making using data-driven insights
     🔺 Enable scalable and automated demand prediction
+
+🧠 Key Features
+
+    ⭐ Data cleaning & missing value handling
+    ⭐ Time-series feature engineering
+    ⭐ 
