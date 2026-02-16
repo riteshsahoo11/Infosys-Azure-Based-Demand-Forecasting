@@ -1,8 +1,10 @@
 # Infosys-Azure-Based-Demand-Forecasting
 🧐 Project Overview
 
-    This project builds a predictive forecasting system to estimate Azure Compute and Storage demand across regions.
-    The goal is to help cloud infrastructure teams make better capacity provisioning decisions, reducing both over-provisioning and under-provisioning of resources.
+    This project focuses on building a predictive system to accurately forecast Azure Compute
+    and Storage demand. The aim is to support the Azure Supply Chain team in making informed capacity provisioning decisions, 
+    reducing both over- and under-investment in infrastructure. The solution will apply advanced data science, feature engineering, and machine learning techniques         
+    using Azure-based tools to drive forecasting accuracy and efficiency.
 
     The system uses data preprocessing, feature engineering, and machine learning models to predict future demand patterns and provide actionable insights for infrastructure planning.
 
