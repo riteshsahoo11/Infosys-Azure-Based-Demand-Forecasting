@@ -21,7 +21,7 @@
     ⭐ Data cleaning & missing value handling
     ⭐ Time-series feature engineering
 
-Expected Outcomes:
+🤔 Expected Outcomes:
 
     🔺 Improved accuracy in forecasting Azure service demand
     🔺 Optimized capacity planning and provisioning across regions
