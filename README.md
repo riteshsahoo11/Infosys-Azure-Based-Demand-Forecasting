@@ -1,4 +1,4 @@
-# Infosys-Azure-Based-Demand-Forecasting
+# Azure Demand Forecasting &amp; Capacity Optimization System
 🧐 Project Overview
 
     This project focuses on building a predictive system to accurately forecast Azure Compute
