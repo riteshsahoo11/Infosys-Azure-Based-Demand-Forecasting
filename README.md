@@ -20,4 +20,10 @@
 
     ⭐ Data cleaning & missing value handling
     ⭐ Time-series feature engineering
-    ⭐ 
+
+Expected Outcomes:
+
+    🔺 Improved accuracy in forecasting Azure service demand
+    🔺 Optimized capacity planning and provisioning across regions
+    🔺 Reduction in CAPEX waste, contributing to potential annual savings (~$120M per 1% gain in accuracy)
+    🔺 Actionable intelligence for the Azure Supply Chain team via integrated insights
