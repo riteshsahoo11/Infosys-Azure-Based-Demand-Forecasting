@@ -7,7 +7,8 @@
     The solution will apply advanced data science, feature engineering, and machine learning techniques using Azure-based tools 
     to drive forecasting accuracy and efficiency.
 
-    The system uses data preprocessing, feature engineering, and machine learning models to predict future demand patterns and provide actionable insights for     infrastructure planning.
+    The system uses data preprocessing, feature engineering, and machine learning models to predict future demand patterns and provide actionable insights
+    for infrastructure planning.
 
 🎯 Objectives
 
