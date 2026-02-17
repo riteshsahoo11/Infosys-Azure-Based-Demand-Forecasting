@@ -18,7 +18,7 @@
     🔺 Support decision-making using data-driven insights
     🔺 Enable scalable and automated demand prediction
 
-🧠 Key Features
+🧠 Key Features and Milestones
 
     🎯MileStone 1(Data Collection & Preparation)
     
