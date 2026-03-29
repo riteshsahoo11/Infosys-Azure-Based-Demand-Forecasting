@@ -1,7 +1,6 @@
 # Azure Demand Forecasting &amp; Capacity Optimization System
 
-🌸 Azure Demand Forecasting Dashboard
-<p align="center"> <img src="https://gifdb.com/images/high/anime-banner-gif-file-477kb-u98xhbvjyzi3h3aj.gif" width="100%" alt="Sakura Falling Animation"/> </p> <p align="center"> <b>Smart Demand Forecasting • Resource Optimization • Business Intelligence</b> </p>
+<h2 position = 'center'>🌸 Azure Demand Forecasting Dashboard</h2>
 
 
 🧐 Project Overview
