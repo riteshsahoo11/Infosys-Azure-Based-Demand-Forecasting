@@ -2,10 +2,12 @@
 
 
 <h3 position = 'center'>🌸 Azure Demand Forecasting Dashboard Link</h3>
-<br>🚀 Try the App:
+<hr>
+🚀 Try the App:
 👉<a  href='https://ritesh-azure-demand-forecasting.lovable.app'>Ritesh Azure Demand Forecasting</a>
 
-
+<hr>
+<br>
 🧐 Project Overview
 
     This project focuses on building a predictive system to accurately forecast Azure Compute and Storage demand. 
