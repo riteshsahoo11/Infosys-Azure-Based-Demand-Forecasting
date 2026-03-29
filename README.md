@@ -7,15 +7,13 @@
 - [Expected Outcomes](#Expected_Outcomes)
 - [Architecture Diagram](#Architecture_Diagram)
 - [Tech Stack](#Tech_Stack)
-- [Azure Dashboard](#try-the-app)
+- [Azure Dashboard](#Azure_Demand_Forecasting_Dashboard_Link)
 <hr>
 
-## try-the-app
-<p align="center">
-    <h3 position = 'center'>🌸 Azure Demand Forecasting Dashboard Link</h3>
+## Azure_Demand_Forecasting_Dashboard_Link 🌸
+
     🚀 Try the App:
     👉<a  href='https://ritesh-azure-demand-forecasting.lovable.app'>Ritesh Azure Demand Forecasting</a>
-</p>
 
 <hr>
 <br>
