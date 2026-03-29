@@ -1,7 +1,7 @@
 # Azure Demand Forecasting &amp; Capacity Optimization System
 
 🌸 Azure Demand Forecasting System
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Demand%20Forecasting&fontSize=40&fontColor=ffffff&animation=fadeIn" /> </p> <p align="center"> <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="100%" alt="Sakura Falling"/> </p> <p align="center"> <b>Forecast Smart • Optimize Resources • Drive Decisions</b> </p>
+
 
 🧐 Project Overview
 
