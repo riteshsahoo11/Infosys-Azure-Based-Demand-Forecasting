@@ -2,7 +2,6 @@
 
 
 <h3 position = 'center'>🌸 Azure Demand Forecasting Dashboard Link</h3>
-<hr>
 🚀 Try the App:
 👉<a  href='https://ritesh-azure-demand-forecasting.lovable.app'>Ritesh Azure Demand Forecasting</a>
 
