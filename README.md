@@ -9,7 +9,7 @@
 <br>
 
 ## 📑 Table of Contents
-- [Project Overview](#Project_Overview )
+- [Project Overview](#Project_Overview)
 - [Objectives](#objectives)
 - [Milestones](#milestones)
 - [Expected Outcomes](#expected-outcomes)
@@ -17,7 +17,7 @@
 - [Tech Stack](#tech-stack)
 - [Azure Dashboard](#try-the-app)
 <hr>
- Project Overview 
+👀
 ## Project_Overview 
 
     This project focuses on building a predictive system to accurately forecast Azure Compute and Storage demand. 
@@ -30,6 +30,7 @@
     for infrastructure planning.
 
 🎯 Objectives
+## objectives
 
     🔺 Forecast future Azure service usage accurately
     🔺 Optimize resource allocation and provisioning
