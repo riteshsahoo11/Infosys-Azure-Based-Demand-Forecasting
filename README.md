@@ -7,6 +7,26 @@
 
 <hr>
 <br>
+
+<details>
+  <summary>🎯 Milestones</summary>
+
+**Milestone 1: Data Collection & Preparation**
+- Collect Azure Compute & Storage usage data
+- Validate & clean datasets
+- Source external variables
+
+**Milestone 2: Feature Engineering**
+- Create lag variables, rolling averages, spike detection
+- Reshape datasets for modeling
+
+**Milestone 3: Modeling**
+- Train ARIMA & XGBoost
+- Evaluate via RMSE
+- Hyperparameter tuning with GridSearchCV
+
+</details>
+<hr>
 🧐 Project Overview
 
     This project focuses on building a predictive system to accurately forecast Azure Compute and Storage demand. 
