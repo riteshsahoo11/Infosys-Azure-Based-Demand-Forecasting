@@ -1,9 +1,6 @@
 # Azure Demand Forecasting &amp; Capacity Optimization System
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600"/>
-</p>
-<p align="center">
   🌸 <strong>Azure Demand Forecasting Dashboard</strong> 🌸<br>
   🚀 <a href="https://ritesh-azure-demand-forecasting.lovable.app">Try the App Now!</a>
 </p>
