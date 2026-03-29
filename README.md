@@ -63,7 +63,7 @@
         
     
 
-#Expected_Outcomes 🤔
+## Expected_Outcomes 🤔
 
     The goal of this project is to build a robust cloud demand forecasting system capable of predicting future 'Azure' compute and storage usage based on         historical patterns and engineered features. By leveraging time-series modeling and machine learning techniques, the project aims to generate accurate        demand predictions that can assist cloud providers in optimizing resource allocation and operational planning.
 
