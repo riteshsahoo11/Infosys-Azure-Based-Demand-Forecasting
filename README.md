@@ -30,7 +30,7 @@
     for infrastructure planning.
 
 🎯 Objectives
-## objectives
+## Objectives
 
     🔺 Forecast future Azure service usage accurately
     🔺 Optimize resource allocation and provisioning
