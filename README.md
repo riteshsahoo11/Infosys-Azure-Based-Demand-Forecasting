@@ -9,7 +9,7 @@
 <br>
 
 ## 📑 Table of Contents
-- [Project Overview](#project-overview)
+- [Project Overview](#Project_Overview )
 - [Objectives](#objectives)
 - [Milestones](#milestones)
 - [Expected Outcomes](#expected-outcomes)
@@ -17,8 +17,8 @@
 - [Tech Stack](#tech-stack)
 - [Azure Dashboard](#try-the-app)
 <hr>
-🧐 Project Overview 
-## project-overview
+ Project Overview 
+🧐## Project_Overview 
 
     This project focuses on building a predictive system to accurately forecast Azure Compute and Storage demand. 
     The aim is to support the Azure Supply Chain team in making informed capacity provisioning decisions, reducing both over- and under-investment
