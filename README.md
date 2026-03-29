@@ -1,4 +1,16 @@
 # Azure Demand Forecasting &amp; Capacity Optimization System
+
+## 📑 INDEX
+- [Project Overview](#Project_Overview)
+- [Objectives](#objectives)
+- [Milestones](#Key_Features_and_Milestones)
+- [Expected Outcomes](#Expected_Outcomes)
+- [Architecture Diagram](#Architecture_Diagram)
+- [Tech Stack](#Tech_Stack)
+- [Azure Dashboard](#try-the-app)
+<hr>
+
+## try-the-app
 <p align="center">
     <h3 position = 'center'>🌸 Azure Demand Forecasting Dashboard Link</h3>
     🚀 Try the App:
@@ -7,17 +19,6 @@
 
 <hr>
 <br>
-
-## 📑 INDEX
-- [Project Overview](#Project_Overview)
-- [Objectives](#objectives)
-- [Milestones](#milestones)
-- [Expected Outcomes](#expected-outcomes)
-- [Architecture Diagram](#architecture-diagram)
-- [Tech Stack](#tech-stack)
-- [Azure Dashboard](#try-the-app)
-<hr>
-
 
 ## Project_Overview 👀 
 
@@ -30,8 +31,7 @@
     The system uses data preprocessing, feature engineering, and machine learning models to predict future demand patterns and provide actionable insights
     for infrastructure planning.
 
-🎯 Objectives
-## Objectives
+## Objectives 🎯
 
     🔺 Forecast future Azure service usage accurately
     🔺 Optimize resource allocation and provisioning
@@ -39,8 +39,7 @@
     🔺 Support decision-making using data-driven insights
     🔺 Enable scalable and automated demand prediction
 
-🧠 Key Features and Milestones 
-## milestones
+## Key_Features_and_Milestones 🧠
 
     🎯MileStone 1(Data Collection & Preparation)
     
@@ -65,7 +64,8 @@
         ⭐ Select the best-performing model based on prediction accuracy
         
     
-🤔 Expected Outcomes
+
+#Expected_Outcomes 🤔
 
     The goal of this project is to build a robust cloud demand forecasting system capable of predicting future 'Azure' compute and storage usage based on         historical patterns and engineered features. By leveraging time-series modeling and machine learning techniques, the project aims to generate accurate        demand predictions that can assist cloud providers in optimizing resource allocation and operational planning.
 
@@ -77,7 +77,8 @@
     🔺 Actionable intelligence for the Azure Supply Chain team via integrated insights
 
 
-💮 Architecture Diagram
+
+##  Architecture_Diagram 💮
 
             Data Collection
                   ↓
@@ -98,7 +99,8 @@
           Demand Prediction
 
 
-🧑🏻‍💻 Tech Stack
+
+## Tech_Stack 🧑🏻‍💻
 
     💻 Programing Language:
         - Python
